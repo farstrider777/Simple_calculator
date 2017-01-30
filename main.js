@@ -1,6 +1,3 @@
-//var numOne = document.getElementById("valueOne");
-//var num1 = Number(valueOne.value);
-
 var resultsDiv = document.getElementById("answer");
 
 function add(){
@@ -9,5 +6,3 @@ function add(){
 }
 
 calculateButton.addEventListener('click', add);
-
-//var button = document.getElementById("calculateButton")
